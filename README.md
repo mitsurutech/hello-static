@@ -1,7 +1,10 @@
-# hello-static
+# Static website starter: deploy plain HTML, CSS and JavaScript from GitHub
 
-A static site for the **Static site** stack on the Mitsuru Technologies learning
-platform: plain HTML, CSS and JavaScript with nothing running behind it.
+A static website starter for the **Static site** stack on the [MitsuruTech Learning
+Platform](https://mitsurutech.co.uk/learning): plain HTML, CSS and JavaScript with nothing running
+behind it. Deploy it free from its GitHub address with
+[deploy a web app from GitHub](https://mitsurutech.co.uk/apps), no account and nothing to install; the
+manual's [guide to deploying apps from GitHub](https://mitsurutech.co.uk/help/deploy-app) has the steps.
 
 Deploy it from the **Deploy App** tab with this repository's URL and the language set
 to *Static site*. The defaults are:
@@ -26,3 +29,11 @@ to *Static site*. The defaults are:
 
 No build step, no dependencies and no package file, which is the point: this is the
 one stack whose build reaches GitHub and nothing else.
+
+## About
+
+Made by [Mitsuru Technologies](https://mitsurutech.co.uk) for the
+[MitsuruTech Learning Platform](https://mitsurutech.co.uk/learning): Python, Java, Go, Node, SQL and
+Linux in the browser for schools and colleges, with container labs, web apps deployed from GitHub, and
+quizzes that mark themselves. Try code with no account in the
+[playground](https://mitsurutech.co.uk/playground).
