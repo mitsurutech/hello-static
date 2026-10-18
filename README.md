@@ -1,5 +1,7 @@
 # Static website starter: deploy plain HTML, CSS and JavaScript from GitHub
 
+[English](README.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [Español](README.es.md)
+
 A static website starter for the **Static site** stack on the [MitsuruTech Learning
 Platform](https://mitsurutech.co.uk/learning): plain HTML, CSS and JavaScript with nothing running
 behind it. Deploy it free from its GitHub address with
@@ -29,6 +31,10 @@ to *Static site*. The defaults are:
 
 No build step, no dependencies and no package file, which is the point: this is the
 one stack whose build reaches GitHub and nothing else.
+
+## Licence
+
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). You may share it and adapt it for learning and teaching, if you credit Mitsuru Technologies Ltd, do not use it commercially, and share anything you make from it under the same licence. The full text is in the `LICENSE` file. It covers the files in this repository.
 
 ## About
 
